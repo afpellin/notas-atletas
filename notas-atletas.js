@@ -34,7 +34,6 @@ for (let i = 0; i < atletas.length; i++){
 
 }
 
-
 for (let i = 0; i < atletas.length; i++){
     switch(i){
         case i:
