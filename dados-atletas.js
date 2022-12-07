@@ -30,7 +30,6 @@ class Atleta {
             if (a > b) return 1;
         });
 
-
         let notasComputadas = notasOrganizadas.slice(1, 4)
 
         let somaNotasComputadas = notasComputadas.reduce(function (total, atual) {
